@@ -15,5 +15,17 @@
         <item name="android:navigationBarColor" tools:targetApi="l">@color/purple_500</item>
         <!-- Background color for the app. -->
         <item name="android:windowBackground">@color/white</item>
+        <!-- Surface colors -->
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+        <!-- Error colors -->
+        <item name="colorError">@color/red_500</item>
+        <item name="colorOnError">@color/white</item>
+        <!-- Primary container colors -->
+        <item name="colorPrimaryContainer">@color/purple_200</item>
+        <item name="colorOnPrimaryContainer">@color/black</item>
+        <!-- Secondary container colors -->
+        <item name="colorSecondaryContainer">@color/teal_200</item>
+        <item name="colorOnSecondaryContainer">@color/black</item>
     </style>
 </resources>
